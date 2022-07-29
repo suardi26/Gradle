@@ -16,11 +16,11 @@
   
   <samp>di otomatisasi dengan Build Automation dan tidak perlu manual.</samp>
   
-- <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code tersebut,</samp> 
+- <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code</samp> 
 
-  <samp>namun Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual, Di java adalah</samp> 
+  <samp>tersebut, namun Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual,</samp> 
   
-  <samp>javadoc dan pada kotlin adalah kotlindoc.</samp>
+  <samp> Di java adalah javadoc dan pada kotlin adalah kotlindoc.</samp>
   
 - <samp>Build Automation dapat menjalankan automated Test, karena pada saat membuat aplikasi tidak hanya</samp>
 
