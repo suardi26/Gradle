@@ -10,9 +10,9 @@
   
   <samp> menjalankan automated test (jika mengimplementasikan unit test) sampai manajemen dependency, dll.</samp>
   
-- <samp>Mempackage (Packaging) Binary File menjadi Distribution File Misalnya pada java ada : '.jar' (Java Archive)</samp>
+- <samp>Mempackage (Packaging) Binary File menjadi Distribution File Misalnya pada java ada :</samp>
 
-  <samp>, '.ear' (Enterprise Archive), '.war' (Web Archive), dan packaging ini dapat</samp>  
+  <samp>'.jar' (Java Archive), '.ear' (Enterprise Archive), '.war' (Web Archive), dan packaging ini dapat</samp>  
   
   <samp>di otomatisasi dengan Build Automation dan tidak perlu manual.</samp>
   
