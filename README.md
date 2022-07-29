@@ -14,3 +14,22 @@
 - <samp>Jadi pada java dapat dilakukan Compile Doc dari Source Code menjadi Documentation dari source code tersebut,</samp> 
   <samp>namun Compile Doc ini dapat diotomatisasi dengan Build Automation dan tidak perlu manual, Di java adalah</samp> 
   <samp>javadoc dan pada kotlin adalah kotlindoc.</samp>
+  
+- <samp>Build Automation dapat menjalankan automated Test, karena pada saat membuat aplikasi tidak hanya</samp>
+  <samp>membuat source code aplikasi namun juga membuat source code unit testnya dan untuk proses testing</samp>
+  <samp>akan dijalankan secara otomatis oleh build automation dan test resultnya dapat dilihat juga.</samp>
+  
+- <samp>Pada saat kita membuat aplikasi kita biasanya membutuhkan beberapa library/dependecies dan untuk</samp>
+  <samp>mengaturnya secara otomatis baik dari download library-nya secara otomatis, dicombine bersama project</samp>
+  <samp>yang dibuat dan dicompile serta di running secara otomatis, hal ini lebih mudah dibandingkan pada saat</samp>
+  <samp>melakukannya secara manual seperti mendownload library berupa file jar secara manual dan di compile</samp>
+  <samp>bersama project kita secara manual.</samp>
+  
+- <samp>Ada beberapa Build Automation Tool :</samp>
+	- <samp>Apache Maven.</samp>
+	- <samp>Apache Ivy.</samp>
+	- <samp>Gradle.</samp>
+  
+### Gradle
+
+
