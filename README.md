@@ -51,7 +51,9 @@
 	
 - <samp>Gradle saat ini sangat populer di kalangan Developer Android.</samp>
 
-- <samp>Pada saat membuat project android pada Android Studio maka secara default projectnya dalam bentuk gradle Project.</samp> 
+- <samp>Pada saat membuat project android pada Android Studio maka secara default projectnya dalam bentuk</samp>  
+
+  <samp>gradle Project.</samp> 
  
 - <samp>Gradle menggunakan JVM sebagai fondasi dasar.</samp>
 
